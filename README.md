@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          ██████████████▒░░░░░░░░░░   57.90 %
-JSON         0 secs          █████████▓░░░░░░░░░░░░░░░   39.29 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
